@@ -8,3 +8,6 @@ My response to the prompt is below: “
 - committee for people to join to ensure inclusivity
 - recruiting people to be in the images of the app
 - asking for feedback from app users to see what should be enhanced
+
+
+I agree with the suggestions on next steps!
